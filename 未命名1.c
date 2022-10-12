@@ -23,7 +23,7 @@ int main()
 	putchar('\n');
 	putchar(b);putchar(c); 
 	return 0;
-}*/
+}
 int main()
 {
 	char c;
@@ -31,4 +31,10 @@ int main()
 	c=getchar();
 	putchar(c);
 	return 0;
+}*/
+int main()
+{
+	char a;
+	printf("请输入一个小写字母：")；
+	a=get 
 }
